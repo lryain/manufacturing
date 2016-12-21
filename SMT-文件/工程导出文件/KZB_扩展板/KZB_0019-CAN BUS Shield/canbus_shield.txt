@@ -1,0 +1,28 @@
+Units of X-Y coordinates are in millimeters
+Part     X      Y   Angle Value                Package
+C1     29.34  26.89    0  0.1uF                0603-CAP
+C2     33.15  29.43    0  560pF                0603-CAP
+C3     33.15  30.70    0  560pF                0603-CAP
+C4     33.15  11.65   90  4.7uF 50v            0603-CAP
+C5     25.53  43.40   90  22pF                 0603-CAP
+C6     33.15  38.32  180  0.1uF                0603-CAP
+C7     17.91  43.40  270  22pF                 0603-CAP
+C8     12.83  21.81    0  0.1uF                0603-CAP
+C9     12.83  20.54  180  1uF                  0603-CAP
+D1     35.69  11.65  270  MBRA140              SMA-DIODE
+F1     35.69  16.73    0  PTCSMD               PTC-1206
+LED1   36.96  21.81   90  RED                  LED-0603
+LED2   36.96  26.89   90  GREEN                LED-0603
+LED3   36.96  24.35   90  GREEN                LED-0603
+Q1     21.72  43.40  180  16MHz                CRYSTAL-SMD-5X3
+R1     36.96  20.54  180  1k                   0603-RES
+R2     36.96  25.62  180  1k                   0603-RES
+R3     36.96  23.08  180  1k                   0603-RES
+R10    36.96  29.43    0  100                  0603-RES
+R12    36.96  30.70    0  100                  0603-RES
+R13    36.96  38.32    0  4.7k                 0603-RES
+S2      3.94   9.11  270  RESET                TACTILE_SWITCH_SMD
+U1      9.16  30.03   90  USD-SOCKETNEW        MICRO-SD-SOCKET-PP
+U4     24.26  34.51  180  MCP2515              SO-18W
+U5     35.69  34.51  270  MCP2551              SO-08M
+U6     24.26  20.54  180  HEX_CONVERTER        SO016
